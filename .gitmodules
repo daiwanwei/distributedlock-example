@@ -1,0 +1,6 @@
+[submodule "distributedlock-go"]
+	path = distributedlock-go
+	url = https://github.com/daiwanwei/distributedlock-go.git
+[submodule "distributedlock-spring-java"]
+	path = distributedlock-spring-java
+	url = https://github.com/daiwanwei/distributedlock-spring-java.git
